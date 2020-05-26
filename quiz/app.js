@@ -47,7 +47,7 @@ var questions = [
     new Question("Si shënohet ID ne HTML?", [".", "#", "/", "''"], "#"),
     new Question("Cili atribut HTML përdoret për të përcaktuar stilet e brendshme?", ["class", "style", "styles", "'src"], "style"),
     new Question("Cila vlerë e CSS kontrollon madhësinë e tekstit?", ["font", "font-weight", "font-size", "font-color"], "font-size"),
-    new Question("Cila nga këto gjuhë programuse nuk është e bazua ne OOP(Object Orieted Programming)", ["Javascript", "JAVA", "C++", "C#"], "Javascript"),
+    new Question("Cila nga këto gjuhë programuse është e bazua ne OOP(Object Orieted Programming)", ["Fortran", "JAVA", "C", "Pascal"], "JAVA"),
     new Question("Cilat nga këto nevojitet për nderitmin e nje Website?", ["HTML", "CSS", "Javascript", "Të gjitha"], "Të gjitha"),
     new Question("Brenda cilit element HTML e vendosim JavaScript?", ["script", "javascript", "js", "sripting"], "script"),
     new Question("Si të shkruani një deklaratë IF në JavaScript?", ["if (i == 5)", "if i == 5 then", "if i = 5", "if i = 5 then"], "if (i == 5)"),
