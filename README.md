@@ -1,4 +1,4 @@
-# kuiz
+# Kuiz
 ## Ky kuiz është berë me anë të Javascript.
 
 ![alt tag](https://www.bing.com/images/blob?bcid=RD7TrmzCJ18Bag "Description goes here")
