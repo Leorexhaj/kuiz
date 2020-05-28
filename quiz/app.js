@@ -42,7 +42,7 @@ function showScores() {
 
 // krijo pyetjet
 var questions = [
-    new Question("Si mund të bëni një listë me numra ne HTML?", ["ul", "ol", "li", "th>"], "ol"),
+    new Question("Si mund të bëni një listë me numra ne HTML?", ["ul", "ol", "li", "th"], "ol"),
     new Question("Në HTML, cili atribut përdoret për të specifikuar se duhet të plotësohet një fushë hyrëse?", ["placeholder", "validate", "formvalidate", "required"], "required"),
     new Question("Si shënohet ID ne HTML?", [".", "#", "/", "''"], "#"),
     new Question("Cili atribut HTML përdoret për të përcaktuar stilet e brendshme?", ["class", "style", "styles", "'src"], "style"),
